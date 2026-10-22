@@ -9,7 +9,7 @@ CAL-007,Day7,2026-10-28,全队天赋4/装备后细调,历史七日成长节点,h
 CAL-008,Day10-30,2026-10-31/2026-11-21,新区心愿/追赶资格观察窗,服务器类型与活动资格,community-conflict,CN-COMM-028|CN-VIDEO-006|CN-COMM-036,pending-client,"每日查活动页；候选吻合且确保300才抽","观察窗不是开放承诺"
 CAL-009,Day22,2026-11-12,大陆挑战/先祖遗迹无尽/第一次时砂阶段,服务器日,official-s1-strong,WIKI-036|CN-OFFICIAL-001,pending-calendar,"大陆挑战按2→4→6次逐周扩队","历史伤害档需370活动页覆盖"
 CAL-010,Day23-26,2026-11-13/16,盟会战预告/匹配/对战/结算,服务器日,historical-official,CN-OFFICIAL-002,pending-calendar,"Day1加入活跃盟会；阶段前确认名单","具体批次日历待370"
-CAL-011,variable,unknown,寰空远征,本服主页预告+共鸣80,current-rule,WIKI-032|WIKI-035,pending-client,"准备群攻/单体/生存三框架；最多3人驻防","明确不是固定Day37"
+CAL-011,Day37-50,2026-11-27..2026-12-10,寰空远征,"最早Day37；分批Day37-50+本服预告+共鸣80",official-s1-window+current-mode,CN-OFFICIAL-002|CN-OFFICIAL-025|WIKI-032|WIKI-035,pending-client,"Day36前准备群攻/单体/生存三框架；最多3人驻防","不是固定Day37，也不是完全无日期；370世界日历覆盖"
 CAL-012,Day42 prerequisite,2026-12-02,维迪米尔请求/雪中魂祭前置,服务器日,current-s1-text,WIKI-034,pending-calendar,"完成请求并保留异界多队机制卡","只确认前置，不把Day42冒充阶段1"
 CAL-013,Day43 historical,2026-12-03,第二次时砂/雪中魂祭阶段1,历史服务器日,historical-official,CN-OFFICIAL-002|WIKI-034,pending-calendar,"按370日历决定异界开战日","2026正文未直接确认Day43"
 CAL-014,Day54,2026-12-14,复苏之龙开始,新手季服务器日,current-rookie-direct,WIKI-033,pending-calendar,"每日最多6次奖励；准备多队与盟会助战","2026正文直接写Starts Day54"
