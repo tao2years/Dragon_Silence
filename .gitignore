@@ -12,6 +12,7 @@ __pycache__/
 .pytest_cache/
 .cache/
 tmp/pdfs/
+tmp/research/
 
 # Credentials and local environment overrides
 .env
