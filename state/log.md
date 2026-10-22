@@ -306,3 +306,4 @@
 - 本轮校验：9个corpus CSV与1个实测CSV可解析；152个source ID无重复；5个监控节点日期可解析；Markdown与CSV来源引用无缺失；71个Markdown中的102条本地链接无断链；`git diff --check`通过。
 
 - 2026-10-22 Pass61：纳入官方蓝紫海王赛三种生存—输出折中；新增Day1 A/B/C递进阵容与榜单时间/DPS/死亡点字段。当前S9海王结算样本仍缺，不以旧S1数字冒充现榜。
+- 2026-10-22 仓库发布：关联`git@github.com:tao2years/Dragon_Silence.git`；保留远端既有`Initial commit`历史并合并本地研究根提交，后续阶段性校验通过后推送`main`。

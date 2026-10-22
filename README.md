@@ -2,6 +2,8 @@
 
 目标：为 2026-10-22 开放的国服 370 区提供可执行、可持续更新的 S1 开荒决策，而不是一次性攻略摘抄。
 
+GitHub：[tao2years/Dragon_Silence](https://github.com/tao2years/Dragon_Silence)。阶段性研究结论在通过CSV、来源引用和本地链接校验后提交到`main`。
+
 当前入口：
 
 - [370 区 Day 1 决策简报](outputs/370-day1-brief.md)
