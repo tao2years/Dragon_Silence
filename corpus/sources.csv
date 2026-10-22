@@ -116,7 +116,7 @@ CN-OFFICIAL-034,CN,official-taptap,"〖启程召唤〗丨S7赛季开服限定召
 CN-OFFICIAL-035,CN,official-taptap,"〖定向召唤〗丨辅助流派自选召唤限时开启",2026-05-10,https://www.taptap.cn/moment/802338232611111923?group_id=335048,2026-10-22,"S7辅助流派自选条目；只核验官方标题与页面日期",reviewed-title-date-image-only
 CN-OFFICIAL-036,CN,official-taptap,"〖精选召唤Ⅰ〗丨召唤流派召唤限时开启",2026-05-19,https://www.taptap.cn/moment/805880622366067480?group_id=335048,2026-10-22,"S7精选I召唤流派；只核验官方标题与页面日期",reviewed-title-date-image-only
 CN-OFFICIAL-037,CN,official-taptap,"〖精选召唤Ⅱ〗丨毒伤流派召唤限时开启",2026-05-27,https://www.taptap.cn/moment/808741873664395195?group_id=335048,2026-10-22,"S7精选II毒伤流派；搜索索引核验官方标题与页面日期",reviewed-title-date-image-only
-CN-OFFICIAL-038,CN,official-taptap,"〖自选召唤Ⅰ〗丨流派自选召唤限时开启",2026-06-11,https://www.taptap.cn/moment/814215657867445048?group_id=335048,2026-10-22,"S7精选II后15天转流派自选；只核验官方标题与页面日期",reviewed-title-date-image-only
+CN-OFFICIAL-038,CN,official-taptap,"〖自选召唤Ⅰ〗丨流派自选召唤限时开启",2026-06-11,https://www.taptap.cn/moment/814215657867445048?group_id=335048,2026-10-22,"S7鼓舞精选III后9天转流派自选；只核验官方标题与页面日期",reviewed-title-date-image-only
 CN-MEDIA-008,CN,syndicated-rules,"S6赛季溯影召唤限时自选卡池规则",2026-03-06,https://news.17173.com/content/03062026/200627684.shtml,2026-10-22,"六阶段位置、池内流派/元素收窄、S1-S5范围与70/10保底；页面自标来源互联网",reviewed-text-secondary
 CN-COMM-041,TC,bahamut-community,"溯影/心愿稀有档位讨论",,https://forum.gamer.com.tw/C.php?bsn=77662&snA=2529,2026-10-22,"搜索摘要称300与800均为稀有角色档；正文403不可访问，仅作交叉线索",snippet-only
 WIKI-008,GLOBAL,wiki-current-guide,"Forgefire and Stardust｜异界Secrets of the Forge攻略",2026-08-03,https://www.dragonheir.info/article/2829,2026-10-22,"现代毒伤高配蛇女+杜兰戈+图奇+蕾塔+欧勾克；现代狂野高配样例",reviewed-text-crossversion
@@ -154,3 +154,4 @@ CN-OFFICIAL-039,CN,official-taptap-guide,"拳打妖鸟脚踢厄兽，装备本�
 CN-OFFICIAL-040,CN,official-taptap-event-result,"结果公示｜二阶段蓝紫海王挑战赛",2025-05-18,https://www.taptap.cn/moment/673279962911870369,2026-10-22,"官方赛果对比长生存与短爆发：1700万/9分钟、1282万/5分钟、近1200万/9分钟；用于海王生存-DPS权衡",reviewed-text-historical
 CN-OFFICIAL-041,CN,official-taptap-faq,"策划FAQ｜S2『雾海奇旅』赛季答疑",2025-05-28,https://www.taptap.cn/moment/676947597348308623,2026-10-22,"官方确认精选召唤与定向召唤均可设置300抽自选；属于S2历史规则，当前池仍须看活动页",reviewed-text-historical-rule
 CN-OFFICIAL-042,CN,official-taptap-banner,"精选召唤Ⅱ｜冰光元素限时召唤开启",2025-06-09,https://www.taptap.cn/moment/681261107985252830,2026-10-22,"官方明确300自选、70抽传说保底、不同召唤活动累计独立且结束清零；用于限制垫抽推断",reviewed-text-historical-rule
+CN-OFFICIAL-043,CN,official-taptap,"〖精选召唤Ⅲ〗丨鼓舞流派召唤限时开启",2026-06-02,https://www.taptap.cn/moment/810926142029562826?group_id=335048,2026-10-22,"补齐S7漏项：精选II后6天为鼓舞精选III，自选I在其后9天；推翻S7最后精选到自选15天旧结论",reviewed-title-date-index-crosscheck
