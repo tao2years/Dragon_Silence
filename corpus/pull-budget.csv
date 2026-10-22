@@ -1,0 +1,11 @@
+budget_id,scope,source_id,evidence_date,resource,amount,availability,eligible_for_heartwish,evidence_level,notes
+PB-001,2025公测预抽,CN-OFFICIAL-018,2025-03-10,活动页模拟召唤机会,250-300,公测前活动期,no,official,"只能从活动结果中锁定10次十连的顺序；不是白送250/300枚日芒石骰子"
+PB-002,2025公测预抽,CN-OFFICIAL-018,2025-03-20,锁定的日芒召唤结果,100,公测后需在日芒召唤中逐次抽取,no,official,"独立活动且不影响原有保底；不能计入370可支配抽数"
+PB-003,2025首发新区,CN-COMM-031,2025-03-24,玩家口径当日新区抽数,34,day1,unknown,community-single,"历史单帖；没有拆分骰子、龙髓石和免费结果"
+PB-004,2025首发新区,CN-COMM-031,2025-03-24,玩家口径开区次日抽数,46,day2,unknown,community-single,"历史单帖；不能直接外推2026年370"
+PB-005,2026-S8赛季福利,CN-OFFICIAL-017,2026-07-30,日芒石骰子,50+,first-week,likely,official,"官方福利汇总同时列出6000+龙髓石和5+大师卷轴；110+抽是多资源折算宣传口径"
+PB-006,2026-S8赛季福利,CN-OFFICIAL-017,2026-07-30,龙髓石,6000+,first-week,conditional,official+inference,"官方将50+骰子和6000+龙髓合称110+抽，强烈暗示当前按100龙髓/抽折算；370仍以池内按钮复核"
+PB-007,2026-S8赛季福利,CN-OFFICIAL-017,2026-07-30,大师卷轴,5+,first-week,no,official,"不可混入英雄心愿池预算"
+PB-008,2026年7月新区,CN-COMM-032,2026-07-13,玩家口径可用抽数,300,day7,unknown,community-reply,"论坛回复称玩7天才够300；是否含充值、龙髓石折算和已抽消耗未披露"
+PB-009,2026年9月364区,CN-VIDEO-006,2026-09-28,玩家口径当前储备,300+,unknown,unknown,community-comment,"评论称已充128且攒300+；不能作为零氪速度证据，但能证明近期新区存在300储备样本"
+PB-010,预抽卡3.0周年期,CN-MEDIA-006,2026-03-20,免费日芒召唤,30,2026-03-20至2026-04-19,no,secondary-rules,"原周年任务奖励；370于10月22日开服，默认不可计入，除非客户端出现新复刻"

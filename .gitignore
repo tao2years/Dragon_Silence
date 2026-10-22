@@ -1,0 +1,20 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+*.bak
+
+# Local runtime/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+
+# Credentials and local environment overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key

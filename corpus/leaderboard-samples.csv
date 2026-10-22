@@ -1,0 +1,8 @@
+sample_id,captured_at,server,server_day,mode,boss,phase,rank,score,battle_seconds,estimated_dps,first_death,exit_reason,team,support_count,hero_inspiration,exclusive_artifacts,gear_summary,skill_timeline,manual_or_auto,source,status,notes
+SAMPLE-000,,,,,,,,,,,,,,,,,,,,,template,"需要服务器号、阶段、配置和结算页才算合格样本"
+SAMPLE-S8-001,2026-09-14,unknown,S8,尾王,unknown,一阶段,unknown,24亿,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,CN-VIDEO-009,code-only,"队伍码S8260914G3KS6VHB；作者评论给出更新28亿码S8260915Q1NEXB41；服务器/五人/装备未恢复，不算完整榜单样本"
+SAMPLE-S9-001,2026-10-22,unknown,S9,王冠争霸,上路,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,BILI-016,code-only,"作者公开有子夜码S9261020QU5B7BX2、无子夜码S9261020QU7AO4B3；待370客户端导入恢复五人/装备/技能轴"
+SAMPLE-S9-002,2026-10-22,unknown,S9,大陆挑战赛,灵光,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,BILI-020,code-only,"评论公开码S92610194GTOMNYZ；Boss、五人、配置、成绩待导入"
+SAMPLE-S9-003,2026-10-22,unknown,S9,王冠争霸,上路灵光,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,BILI-021,code-only,"作者公开列娜版S926102099NQ27EQ、牛牛版S926102099PNUQSU；待导入"
+SAMPLE-S9-004,2026-10-22,unknown,S9,王冠争霸,上路腐蚀,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,BILI-023,code-only,"低配腐蚀码S92610219B6HBDZS；待恢复实际核心与成本"
+SAMPLE-S9-005,2026-10-22,unknown,S9,深渊爬塔,120层,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,BILI-022,code-only,"作者码S9261022R3IF35XX；评论提示抵抗，具体阈值待导入"

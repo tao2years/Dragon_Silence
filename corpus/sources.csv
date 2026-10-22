@@ -1,0 +1,154 @@
+source_id,scope,type,title,published,url,captured,used_for,status
+CN-OFFICIAL-001,CN,official,"策划FAQ｜S1赛季首批服务器结算预告",2025-05-15,https://www.taptap.cn/moment/672213432501537047,2026-10-22,"S1结算与约70天赛季结构",reviewed
+CN-OFFICIAL-002,CN,official,"《龙息：神寂》4月24日更新公告",2025-04-23,https://www.taptap.cn/moment/664220768036455023,2026-10-22,"第37/43/54天玩法基线",reviewed
+CN-OFFICIAL-003,CN,official,"《龙息：神寂》4月11日版本更新公告",2025-04-10,https://www.taptap.cn/moment/659506362337723365,2026-10-22,"盟会战第23-26天基线",reviewed
+CN-OFFICIAL-004,CN,official,"策划FAQ丨公测首周问题解答",2025-03,https://www.taptap.cn/moment/654443201519683113,2026-10-22,"国服区服邀请码流程",reviewed
+CN-COMM-002,CN,taptap-community-guide,"预抽卡角色鉴别（补充上一期）",2026-03-15,https://www.taptap.cn/moment/782364575046567361,2026-10-22,"预抽语境下旧毒伤双核、腐蚀核心/成本与低金风险；属S7前单作者评价",reviewed-text-crossversion-community
+CN-COMM-003,CN,community,"大神秘籍｜海王高分阵容盘点",2025-04-25,https://www.taptap.cn/moment/664955075692593344,2026-10-22,"旧新区海王榜单与配装",reviewed
+CN-COMM-004,CN,community,"投稿分享｜蓝紫卡海王赛二阶段阵容盘点",2025-05-16,https://www.taptap.cn/moment/672577672357872843,2026-10-22,"海王低配可行性",reviewed
+CN-COMM-005,CN,community,"S1大陆挑战赛各boss以及队伍推荐",2025-08-01,https://www.taptap.cn/moment/669171585227161999,2026-10-22,"S1挑战赛机制与队伍",reviewed
+CN-COMM-006,CN,community,"大神秘籍 | 大陆挑战赛应对思路",2025-04-11,https://www.taptap.cn/moment/659860706509720016,2026-10-22,"六Boss流派映射",reviewed
+CN-COMM-007,CN,community,"萌新时空漩涡通关搭配详解",2025-01-23,https://www.taptap.cn/moment/631630276530801786,2026-10-22,"海王基础机制",reviewed
+CN-COMM-008,CN,community,"（优化）萌新可看的公测全面攻略",2025-03,https://www.taptap.cn/moment/652643120650912227,2026-10-22,"早期副本低配职能",reviewed
+WIKI-001,GLOBAL,wiki,"Szecedith hero page",unknown,https://www.dragonheir.info/heroes/24560,2026-10-22,"腐蚀机制与推荐队",reviewed
+WIKI-002,GLOBAL,wiki,"Rook hero page",unknown,https://www.dragonheir.info/heroes/22050,2026-10-22,"卢克技能与激励方向",reviewed
+WIKI-003,GLOBAL,wiki,"Reytah hero page",unknown,https://www.dragonheir.info/heroes/21870,2026-10-22,"雷塔技能与配装方向",reviewed
+GLOBAL-OFFICIAL-001,GLOBAL,official,"Server Invitation Feature Announcement",2026-01-02,https://store.steampowered.com/news/posts/?enddate=1767352571&feed=steam_community_announcements,2026-10-22,"国际服新版邀请规则",reviewed
+CN-OFFICIAL-005,CN,official,"精选召唤Ⅳ｜六大元素齐聚，稀有角色自选",2025-04-07,https://www.taptap.cn/moment/658456872155613773,2026-10-22,"旧卡池时序与独立累计",reviewed
+CN-OFFICIAL-006,CN,official-wechat-index,"精选召唤Ⅲ｜腐蚀流派召唤限时开启",2026-10-19,"Sogou WeChat index: 龙息神寂 精选召唤3 腐蚀流派",2026-10-22,"370区当期腐蚀池名单、300抽自选、10月22日05:00开启",reviewed-snippet
+CN-OFFICIAL-007,CN,official-wechat-index,"精选召唤Ⅱ｜灵光流派召唤限时开启",2026-10,"Sogou WeChat index: 龙息神寂 精选召唤Ⅱ 灵光",2026-10-22,"当期全服卡池前序与轮换间隔",screened-snippet
+CN-COMM-009,CN,community,"推荐预言召唤拿的金色辅助",2025-03-12,https://www.taptap.cn/moment/648233119274503505,2026-10-22,"早期300抽双UP结构、六旧主C开荒成本",reviewed
+CN-COMM-010,CN,community,"长期玩的可以看一下",2025-03-25,https://www.taptap.cn/moment/652597411520187818,2026-10-22,"首发旧轮换与保底不继承警告；仅作历史样本",reviewed
+CN-COMM-011,CN,community,"队伍组建思路",2026-04-15,https://www.taptap.cn/moment/793633086800660853,2026-10-22,"五人队职能与无畏组件示例",reviewed
+CN-COMM-013,CN,community,"毒伤流队伍",2025-04-04,https://www.taptap.cn/app/237749/strategy/entity-collection/277624,2026-10-22,"子夜低配毒伤队与属性方向",screened
+BILI-001,CN,video,"龙息神寂毒队机制配队与海王实战",2025-04-12,https://www.bilibili.com/video/BV1UbdhYSEDa/,2026-10-22,"毒伤机制、海王阵容及相关视频入口",reviewed-metadata
+BILI-002,CN,video,"子夜毒伤队｜叠毒机制、对轴和配队",unknown,https://www.bilibili.com/video/BV1RSLPzbEaM/,2026-10-22,"子夜专项视频入口",identified
+BILI-003,CN,video,"无专武无激励火队海王思路",unknown,https://www.bilibili.com/video/BV1SLRDYTEkB/,2026-10-22,"低投入狂野海王案例入口",identified
+BILI-004,CN,video,"四阶段火队海王：龙妈无激励10-14e思路",unknown,https://www.bilibili.com/video/BV1bPdDYBE7Y/,2026-10-22,"龙妈海王案例入口",identified
+BILI-005,CN,video,"龙妈狂野队｜海王保姆教程及对轴细节",unknown,https://www.bilibili.com/video/BV1h1oLY2Egg/,2026-10-22,"狂野机制与技能轴入口",identified
+CN-MEDIA-001,CN,syndicated,"暗影流派新英雄赛昂尼斯测评",2026-10-13,https://www.9game.cn/lxsj1/12132715.html,2026-10-22,"S9新卡节奏旁证",screened
+CN-OFFICIAL-008,CN,official-wechat-index,"溯影召唤｜流派自选召唤限时开启",2026-03-05,"Sogou WeChat index: 龙息神寂 溯影召唤",2026-10-22,"2稀有输出+4普通传说心愿规则、S1-S5范围",reviewed-snippet
+CN-OFFICIAL-013,CN,official-taptap,"〖心愿召唤〗丨英雄自选召唤活动限时开启",2026-04-24,https://www.taptap.cn/moment/796779778953710896,2026-10-22,"2稀有+4普通、100/200/300/400/600/800、锁池、候选排除与70/10保底",reviewed-visual
+CN-COMM-026,CN,taptap-community,"新区玩了10天的抽卡规划",2026-09,https://www.taptap.cn/moment/848890153530297456,2026-10-22,"社区回复记录100欧勾克/200图奇/300蛇女",reviewed-community
+CN-COMM-027,CN,taptap-forum,"当前新区论坛：橙骰子等待蛇女自选池",2026-10,https://www.taptap.cn/forum/g335048,2026-10-22,"近期新区等待可选蛇女心愿池的交叉线索",reviewed-community
+CN-COMM-028,CN,taptap-community,"玩家称只抽过300抽心愿池蛇女",2026-10,https://www.taptap.cn/moment/854114753453229423,2026-10-22,"300档蛇女的独立社区实况",reviewed-community
+CN-MEDIA-002,CN,syndicated,"S6溯影召唤限时自选卡池规则",2026-03-06,https://m.ali213.net/news/260306/225041.html,2026-10-22,"溯影六阶段奖励、锁池范围与70抽保底",reviewed
+CN-COMM-015,CN,community,"重燃溃烂之役，焰毒亲和阵容指南",2024-10-29,https://www.taptap.cn/moment/600424337949851912,2026-10-22,"毒伤与狂野角色功能、单体/群体场景",reviewed
+CN-COMM-016,CN,community,"当前新区论坛抽卡问答样本",2026-09,https://www.taptap.cn/app/237749/topic?group_label_id=532076&page=7,2026-10-22,"新区溯影节奏与蛇女/斯赖特优先线索",screened
+CN-OFFICIAL-009,CN,official,"萌新指南｜公测第一天",2025-03-20,https://www.taptap.cn/moment/651751150319569831,2026-10-22,"首日免费阵容与资源路线",reviewed
+CN-COMM-017,CN,community,"79级装备本14层低配阵容",2025-03-26,https://www.taptap.cn/moment/653962912133548920,2026-10-22,"装备本低稀有职能与操作节点",reviewed
+CN-OFFICIAL-010,CN,official-player-feature,"技能时间轴设置妙招",2025-04-14,https://www.taptap.cn/moment/660982075729381373,2026-10-22,"诅咒墓穴18秒循环与技能轴",reviewed
+CN-OFFICIAL-011,CN,official-player-feature,"大神秘籍｜S2赛季新英雄解读",2025-05-30,https://www.taptap.cn/moment/677640352173132574,2026-10-22,"斯赖特对毒伤上限与子夜结算的补强；猛药与罗塞尔毒层联动、S2归属",reviewed
+CN-OFFICIAL-012,CN,official,"龙息资讯｜S6棋与剑的战歌赛季新英雄速览",2026-02,https://www.taptap.cn/moment/775793569716766674,2026-10-22,"S6新英雄窗口与狂野补强",screened
+CN-COMM-019,CN,community,"来一期预抽卡角色鉴别（无图版）",2026-03-15,https://www.taptap.cn/moment/782356204914478047,2026-10-22,"龙妈、菲莉丝蒂、可拉克的当前狂野核心口径",reviewed
+CN-DB-001,GLOBAL,community-database,"Dragonheir英雄数据库",current,https://dsg.dmzgame.com/heroes,2026-10-22,"英雄中文名、元素、机制、定位交叉核对",reviewed
+CN-COMM-020,CN,community-index,"TapTap当前邀请码帖子样本",2026-10,https://www.taptap.cn/app/237749/topic,2026-10-22,"区分庆典服/好友绑定码与区服邀请码",screened
+CN-COMM-021,CN,community,"毒体系心得",2025-04-11,https://www.taptap.cn/moment/658406688369412746,2026-10-22,"国服S1毒伤海王/副本双轴、配装、子夜选取前置",reviewed
+CN-COMM-022,CN,community-test,"谁是罗塞尔专武的下位第一",2025-05-06,https://www.taptap.cn/moment/668752429264668161,2026-10-22,"子夜神器对比与历史队伍伤害波动",reviewed
+CN-COMM-024,CN,community,"阵容强度测评指南",2025-04-02,https://www.taptap.cn/moment/654032944700064305,2026-10-22,"S1狂野旧五人、开荒与海王场景差异",reviewed
+BILI-006,CN,video,"如何打造一个完美蜡烛",2025-04-24,https://www.bilibili.com/video/BV1SZLizVEUh/,2026-10-22,"菲莉丝蒂配置视频入口",identified
+BILI-007,CN,video-index,"肝攻略龙息神寂视频合集",2025-2026,https://www.bilibili.com/video/BV1Bq4BzdEpc/,2026-10-22,"龙妈/菲莉丝蒂/埃里奇/狂野海王专题入口索引",identified
+BILI-008,CN,video,"毒队天赋选择与柯林装备搭配思路",2025-05-07,https://www.bilibili.com/video/BV1P6V8zyEXT/,2026-10-22,"柯林天赋、装备与毒队技能轴待逐帧复核",reviewed-metadata
+BILI-009,INTL,video-index,"Dragonheir S1-S4副本与挑战赛合集",2024-05-06,https://www.bilibili.com/video/BV1Qz421U7Hf/,2026-10-22,"剧毒/诅咒/腐烂/古战场/海王/挑战赛分集入口",reviewed-metadata
+BILI-010,CN,video,"S4大陆挑战赛火马带队燃烧无火拳",2025-11-08,https://www.bilibili.com/video/BV1Yz1QB2Edn/,2026-10-22,"燃烧体系无火拳替代与队伍码入口；跨赛季",reviewed-metadata
+CN-COMM-025,CN,community,"关于卡池轮换的修正贴",2025-04-07,https://www.taptap.cn/moment/655785872033055182,2026-10-22,"2025首批S1精选/定向交错日程",reviewed
+CN-OFFICIAL-014,CN,official-taptap,"角色攻略丨毒伤队子夜高伤教程",2025-07-16,https://www.taptap.cn/moment/694645403563329801,2026-10-22,"图奇翻倍挂毒、子夜按层追加、柯林续毒对轴",reviewed-text
+CN-OFFICIAL-015,CN,official-taptap,"角色攻略丨狂野流芙罗拉高伤教程",2025-07-02,https://www.taptap.cn/moment/689557102150027249,2026-10-22,"菲莉丝蒂帮助龙妈叠层、埃里奇提高狂野骰点",reviewed-text
+CN-COMM-029,CN,official-forum-index,"当前论坛对11月初返场与自选的讨论",2026-10-12,https://www.taptap.cn/app/237749/topic?group_label_id=2075528&page=4,2026-10-22,"社区称11月初天使返场并等待自选/溯影；仅作监测线索",screened-community-forecast
+CN-OFFICIAL-016,CN,official-curated-guide,"大神秘籍｜高层装备本通关思路",2025-04-23,https://www.taptap.cn/moment/663875979063593807,2026-10-22,"三墓穴高层机制与对策、新增机制、失败点诊断、装备与替代方向",reviewed-player-submission
+CN-COMM-030,CN,community-guide,"腐烂墓穴（大蛤蟆）前16层攻略",2025-03-29,https://www.taptap.cn/moment/654979397618500475,2026-10-22,"泰雅隐身逃吞、光奶免疫、冰队样例与低配替换",reviewed
+CN-OFFICIAL-017,CN,official-forum-index,"S8赛季福利&活动一览",2026-07-30,https://www.taptap.cn/app/237749/topic?group_label_id=533171&page=13,2026-10-22,"首周110+抽拆分为50+日芒石骰子、6000+龙髓石、5+大师卷轴",reviewed-index
+CN-OFFICIAL-018,CN,official-taptap,"公测前瞻｜预言召唤 今日开启",2025-03-10,https://www.taptap.cn/moment/648222576425832312,2026-10-22,"250/300为端外尝试次数；只锁定100次未来结果且不影响保底",reviewed-text
+CN-COMM-031,CN,community,"刷了40多个区的初始，一个稀有没抽到",2025-03-24,https://www.taptap.cn/moment/653179886302660294,2026-10-22,"历史新区Day1 34抽、Day2 46抽的单帖口径",reviewed-community
+CN-COMM-032,CN,community-forum-index,"心愿召唤前三个英雄怎么选（回复）",2026-07-13,https://www.taptap.cn/app/237749/topic?group_label_id=533171&page=13,2026-10-22,"玩家回复称新区7天才够300抽；资源构成未披露",reviewed-community-reply
+CN-VIDEO-006,CN,douyin-community,"龙息神寂新手入坑最优抽取攻略",2026-09-28,https://www.douyin.com/video/7690459413777493482,2026-10-22,"364区付费玩家300+储备；作者回复称蛇女可选池按旧节奏约等一月，服务器类型相关",reviewed-metadata-comments
+CN-OFFICIAL-019,CN,official-forum-index,"精选召唤Ⅰ｜冰爆流派召唤限时开启",2026-07-27,https://www.taptap.cn/app/237749/topic?group_label_id=2148308&page=5,2026-10-22,"S8精选Ⅰ日期与流派",reviewed-index
+CN-OFFICIAL-020,CN,official-forum-index,"精选召唤Ⅱ｜霹雳流派召唤限时开启",2026-08-04,https://www.taptap.cn/app/237749/topic?group_label_id=2148308&page=5,2026-10-22,"S8精选Ⅱ日期与流派",reviewed-index
+CN-OFFICIAL-021,CN,official-taptap,"精选召唤Ⅲ｜燃烧流派召唤限时开启",2026-08-13,https://www.taptap.cn/forum/g335048?page=11,2026-10-22,"S8精选Ⅲ日期与流派",reviewed-index
+CN-OFFICIAL-022,CN,official-taptap,"自选召唤Ⅱ｜流派自选召唤限时开启",2026-08-28,https://www.taptap.cn/moment/842088960837553513,2026-10-22,"S8第三轮精选后约15天转自选的历史样本",reviewed-title-date
+CN-MEDIA-003,CN,syndicated-guide,"各大首领的机制要点与实战破局思路",2026,https://m.milu.com/news/237071/,2026-10-22,"S8大陆挑战群攻毒伤/燃烧场景与现代龙妈抵抗队样例",reviewed-text-secondary
+WIKI-004,GLOBAL,third-party-database,"Serpentemis hero page",unknown,https://www.dragonheir.info/heroes/24340,2026-10-22,"蛇女Toxin爆毒、抗性削减、启迪成长与激励机制",reviewed-text-crossversion
+WIKI-005,GLOBAL,third-party-database,"Sleight hero page",unknown,https://www.dragonheir.info/heroes/22430,2026-10-22,"斯赖特猛药生成、转毒与激励5上限机制",reviewed-text-crossversion
+WIKI-006,GLOBAL,third-party-database,"Twitch hero page",unknown,https://www.dragonheir.info/heroes/22010,2026-10-22,"图奇多段挂毒、启迪增箭与被动追加机制",reviewed-text-crossversion
+WIKI-007,GLOBAL,third-party-database,"Oggok hero page",unknown,https://www.dragonheir.info/heroes/21700,2026-10-22,"欧勾克不死、延迟治疗、降攻与治疗驱散机制",reviewed-text-crossversion
+CN-COMM-033,CN,community-forum-index,"2026年9至10月新区毒伤自选讨论",2026-09/10,https://www.taptap.cn/app/237749/topic?group_label_id=532076&page=7,2026-10-22,"当前社区建议新区攒橙骰等自选、优先蛇女/斯赖特而非旧子夜；非官方承诺",reviewed-current-community-index
+CN-OFFICIAL-023,CN,official-curated-guide,"大神秘籍｜燃烧流派角色解读",2025-05-27,https://www.taptap.cn/moment/676583108882989386,2026-10-22,"S2燃烧层数/爆燃机制与火拳、杜瑞姆、卡尔弗职能；玩家投稿",reviewed-player-submission
+BILI-011,CN,video,"S8双蛇：0命蛇女无大老鼠篇",2026-08-09,https://www.bilibili.com/video/BV1RKuL6dEc3/,2026-10-22,"0命蛇女无斯赖特的现代队伍视频入口；正文配置待逐帧",reviewed-metadata
+CN-OFFICIAL-024,CN,official-taptap,"《龙息：神寂》4月17日更新公告",2025-04-16,https://www.taptap.cn/moment/661685085149335216,2026-10-22,"S1第22天先祖遗迹无尽模式条件与周结规则",reviewed-text
+CN-OFFICIAL-025,CN,official-taptap,"寰空远征｜多环境战斗，爬塔玩法上新",2025-04,https://www.taptap.cn/moment/664235049008237522,2026-10-22,"S1第37至50天开放范围与英雄单驻防限制",reviewed-index
+CN-OFFICIAL-026,CN,official-taptap,"雪域的悲鸣｜S1异界探索玩法介绍",2025-04-30,https://www.taptap.cn/moment/666423294446010945,2026-10-22,"第43/54/64天阶段、龙芽汤剂与英雄每日一次出战限制",reviewed-text
+CN-PORTAL-001,CN,official-community-portal,"荣耀俱乐部龙息神寂官方专区",current,https://community-cn.honor.com/cngm/game/forumplate/forumid-1392/,2026-10-22,"官方公告镜像与站内检索备用入口；公开首页缓存可能滞后",screened-portal
+CN-COMM-034,CN,tieba-community-guide,"入坑队伍选择指南",2025,https://tieba.baidu.com/p/9628195689,2026-10-22,"平民两队与辅助长期价值；旧S1龙妈/鸟姐配件重，保一群攻一单体，辅助优先",reviewed-crossversion-community
+CN-OFFICIAL-027,CN,official-app-store,"龙息：神寂 App Store版本历史：S9暗潮将至",2026-09-28,https://apps.apple.com/cn/app/%E9%BE%99%E6%81%AF-%E7%A5%9E%E5%AF%82/id6480042764?platform=ipad,2026-10-22,"S9版本0.340.190489发布日期与首周110抽宣传口径",reviewed-text
+CN-COMM-035,CN,taptap-community-guide,"大型抽卡推荐贴（S7赛季版）",2026-05-29,https://www.taptap.cn/moment/809517361991256805,2026-10-22,"全服同步、S1长期队伍、长短战投资、通用辅助与腐蚀/毒伤/燃烧/狂野成本判断；S8三流派预测获一次回测",reviewed-longform-community
+CN-COMM-036,CN,taptap-forum-reply,"庆典服与800档心愿资格讨论",2026-04,https://www.taptap.cn/forum/g335048?page=27,2026-10-22,"玩家回复称800档心愿属于落后赛季追赶且庆典服可能没有；弱证据",reviewed-community-reply
+BILI-012,CN,video,"燃烧队伍技能分析与出伤思路",2025-05-25,https://www.bilibili.com/video/BV1LMjgz1EFL/,2026-10-22,"燃烧技能轴与出伤逻辑视频入口；正文配置待逐帧",reviewed-metadata
+CN-MEDIA-004,CN,syndicated-official-copy,"暗潮核心浮现：S9九位全新传说英雄来袭",2026-09-21,https://m.ali213.net/news/260921/226311.html,2026-10-22,"S9三输出与六辅助名单/定位；转载官方前瞻，非官方原页",reviewed-text-secondary
+CN-OFFICIAL-028,CN,official-syndicated,"配队有方，通关无忧：队伍码功能介绍",2025-11-07,https://www.9game.cn/lxsj1/11506585.html,2026-10-22,"官方功能图转载入口，证明队伍码是正式分享路径；图片操作文字待目视",reviewed-title-image-only
+CN-VIDEO-008,CN,douyin-video,"S8尾王一阶段20队攻略覆盖10派系",2026-09-15,https://www.douyin.com/video/7685636647345458466,2026-10-22,"当前版本前一赛季多队配置入口；具体队伍码/画面待复核",reviewed-metadata
+CN-VIDEO-009,CN,douyin-video,"S8尾王灵光队24亿攻略",2026-09-14,https://www.douyin.com/video/7685407027484527915,2026-10-22,"公开视频附队伍码S8260914G3KS6VHB及评论更新28亿码S8260915Q1NEXB41",reviewed-metadata-comments
+CN-MEDIA-005,CN,syndicated-player-review,"新赛季灵光流派迎来强力补强霍尔法斯特",2026-10-15,https://www.9game.cn/lxsj1/12136906.html,2026-10-22,"霍尔法斯特测试服技能/激励/队伍样例；文末称天使本赛季返场，但投稿不代表官方",reviewed-text-secondary
+BILI-013,CN,video,"截止S9大稀有获取建议",2026-10-08,https://www.bilibili.com/video/BV1wPH169E4s/,2026-10-22,"S9大稀有投资视频与评论；自选补强同时赌歪仅属社区策略",reviewed-metadata-comments
+BILI-014,CN,video,"S9四阶段双蛇毒伤混子与毒鸡",2026-10-14,https://www.bilibili.com/video/BV1CzpB6zEmi/,2026-10-22,"当前S9双蛇毒伤入口；评论强调毒弓/毒鸡比较受混沌之子激励影响",reviewed-metadata-comments
+BILI-015,CN,video,"S9三阶段毒伤活满的两套办法",2026-10-09,https://www.bilibili.com/video/BV1GcH96ZEG1/,2026-10-22,"当前S9毒伤生存入口；命中需求随混沌之子天赋分支变化",reviewed-metadata-comments
+BILI-016,CN,video,"S9王冠上路毒伤队攻略",2026-10-21,https://www.bilibili.com/video/BV1nxnP6eEr3/,2026-10-22,"作者公开有子夜/无子夜两条S9队伍码；精选不保证城主的当期社区答复",reviewed-metadata-comments-codes
+BILI-017,CN,video,"心愿池抽取建议（2026年9月）",2026-09-14,https://www.bilibili.com/video/BV1LWYk6YEcj/,2026-10-22,"2026年9月心愿池社区入口；骰子不足者谨慎，评论欧气样本不作保底",reviewed-metadata-comments
+CN-OFFICIAL-029,CN,official-taptap,"预言召唤2.0｜让更多角色享受自选开局",2025-05-21,https://www.taptap.cn/moment/674046480612329103,2026-10-22,"端外250次试刷、锁定未来100次日芒结果、单角色一次导入与重新参与条件",reviewed-text
+CN-OFFICIAL-030,CN,official-taptap,"爆改回归！预抽卡3.0狂送260抽，保底3金任你选！",2026-03-12,https://www.taptap.cn/moment/781239139142994150,2026-10-22,"3.0官方标题确认260次预抽与3金保障；正文长图未恢复",reviewed-title-image-only
+CN-MEDIA-006,CN,syndicated-rules,"《龙息：神寂》预抽卡3.0上线，260抽福利助力旅者轻松开局",2026-03-13,https://news.17173.com/content/03132026/140229727.shtml,2026-10-22,"3.0的260试刷、30免费日芒、S1-S5池、100抽锁定与导入窗口；二手规则转述",reviewed-text-secondary
+BILI-018,CN,video,"龙息神寂预抽卡3.0，如何刷取初始与英雄推荐",2026-03-15,https://www.bilibili.com/video/BV111wTzQE1Q/,2026-10-22,"3.0刷初始入口；作者评论称可反复刷，未给重置条件",reviewed-metadata-comments
+BILI-019,CN,video,"龙息神寂预抽卡3.0",2026-03-11,https://www.bilibili.com/video/BV1pvcozSEGo/,2026-10-22,"作者评论称老玩家可参与并存在预言码交易；仅作存续/操作线索",reviewed-metadata-comments
+CN-COMM-037,CN,taptap-community,"请大佬配个队：当天自选大老鼠、考虑转新区",2026-10-22,https://www.taptap.cn/moment/862251022049872992,2026-10-22,"精确发布时间2026-10-22 08:37；作者问继续旧号还是去新服重玩，故不是370固定福利证据；池型与七张卡盒截图仍未目视",reviewed-text-current-account-not-370
+BILI-020,CN,video,"S9赛季大陆挑战赛：灵光乍现",2026-10-19,https://www.bilibili.com/video/BV1uBnn68ErZ/,2026-10-22,"评论公开S9大陆挑战灵光队伍码；五人配置待客户端导入",reviewed-metadata-comments-codes
+BILI-021,CN,video,"S9王冠上路灵光队攻略",2026-10-20,https://www.bilibili.com/video/BV1SWnc6MEeh/,2026-10-22,"作者公开列娜/牛牛两码，并回复11月8日天使；后者为社区预测",reviewed-metadata-comments-codes
+BILI-022,CN,video,"S9深渊爬塔120层攻略",2026-10-22,https://www.bilibili.com/video/BV15Ln263EkD/,2026-10-22,"作者公开120层队伍码，评论提示抵抗；配置待导入",reviewed-metadata-comments-codes
+BILI-023,CN,video,"S9王冠上路腐蚀队低配攻略",2026-10-21,https://www.bilibili.com/video/BV1YWnN69Ebp/,2026-10-22,"公开低配腐蚀队伍码；五人/投入/成绩待导入",reviewed-metadata-comments-codes
+CN-COMM-038,CN,community-guide,"零（微）氪首日地精，角斗，先祖攻略",2025-03-21,https://www.taptap.cn/moment/652197680897851429,2026-10-22,"历史首日地精6、40级队伍与59级上限样本；版本数字不直接套370",reviewed-text-crossversion
+CN-OFFICIAL-031,CN,official-curated-guide,"最强体力规划，开服首日尽享MAX收益",2025-01-17,https://www.taptap.cn/app/237749/strategy/entity/38314507,2026-10-22,"官方攻略索引中的体力10分钟恢复、储备体力20分钟与720上限；正文待独立恢复",reviewed-index
+BILI-024,CN,video,"新服开荒第一天注意事项",2025-07-01,https://www.bilibili.com/video/BV17jg1zvE1a/,2026-10-22,"S1新服首日注意事项入口；时长1:43，正文受412限制",reviewed-metadata
+BILI-025,CN,video,"开荒第一天通过加点白嫖金装紫装金币",2025-05-30,https://www.bilibili.com/video/BV1P87jzUEiv/,2026-10-22,"零氪首日免费资源与加点入口；时长2:33，正文受412限制",reviewed-metadata
+CN-OFFICIAL-032,CN,official-taptap,"预抽召唤说明｜超级福利放送，轻松定制完美初始号",2025-01,https://www.taptap.cn/moment/626904636720154168,2026-10-22,"官方历史规则：选中十连不能自由调序，按预抽发生时间排列",reviewed-text-historical
+CN-COMM-039,CN,community-guide,"一句话教你预抽卡如何锁卡",2025-03-14,https://www.taptap.cn/moment/649550626916666790,2026-10-22,"掐头去中间、金尾优先；用原序规则把目标金前置到真实前30抽",reviewed-text-historical
+CN-OFFICIAL-033,CN,official-taptap,"龙息导览｜新手向玩法介绍及首日规划",2025-01-17,https://www.taptap.cn/moment/629237455572176540,2026-10-22,"首日商店、100活跃、时空涡流收尾、竞技次数、迷域结算与体力上限",reviewed-text-historical
+CN-MEDIA-007,CN,media,"裂隙张开突破宿命｜诞于混沌限时活动",2026-09-23,https://m.18183.com/news/yxxw/202609/9043084.html,2026-10-22,"活动准入截止10月10日、开服满5天；推断370不具资格",reviewed-secondary-needs-official
+CN-COMM-040,CN,taptap-community-guide,"赤鸦攻略组｜强度焦虑与副本对策卡推荐",2025-01-22,https://www.taptap.cn/moment/631051714429976976,2026-10-22,"地精/三墓穴/古战场/异教/海王的蓝紫对策职能与具体角色",reviewed-crossversion-longform
+CN-OFFICIAL-034,CN,official-taptap,"〖启程召唤〗丨S7赛季开服限定召唤活动即将开启",2026-05-10,https://www.taptap.cn/moment/802337832684227494?group_id=335048,2026-10-22,"S7开服限定召唤条目；只核验官方标题与页面日期",reviewed-title-date-image-only
+CN-OFFICIAL-035,CN,official-taptap,"〖定向召唤〗丨辅助流派自选召唤限时开启",2026-05-10,https://www.taptap.cn/moment/802338232611111923?group_id=335048,2026-10-22,"S7辅助流派自选条目；只核验官方标题与页面日期",reviewed-title-date-image-only
+CN-OFFICIAL-036,CN,official-taptap,"〖精选召唤Ⅰ〗丨召唤流派召唤限时开启",2026-05-19,https://www.taptap.cn/moment/805880622366067480?group_id=335048,2026-10-22,"S7精选I召唤流派；只核验官方标题与页面日期",reviewed-title-date-image-only
+CN-OFFICIAL-037,CN,official-taptap,"〖精选召唤Ⅱ〗丨毒伤流派召唤限时开启",2026-05-27,https://www.taptap.cn/moment/808741873664395195?group_id=335048,2026-10-22,"S7精选II毒伤流派；搜索索引核验官方标题与页面日期",reviewed-title-date-image-only
+CN-OFFICIAL-038,CN,official-taptap,"〖自选召唤Ⅰ〗丨流派自选召唤限时开启",2026-06-11,https://www.taptap.cn/moment/814215657867445048?group_id=335048,2026-10-22,"S7精选II后15天转流派自选；只核验官方标题与页面日期",reviewed-title-date-image-only
+CN-MEDIA-008,CN,syndicated-rules,"S6赛季溯影召唤限时自选卡池规则",2026-03-06,https://news.17173.com/content/03062026/200627684.shtml,2026-10-22,"六阶段位置、池内流派/元素收窄、S1-S5范围与70/10保底；页面自标来源互联网",reviewed-text-secondary
+CN-COMM-041,TC,bahamut-community,"溯影/心愿稀有档位讨论",,https://forum.gamer.com.tw/C.php?bsn=77662&snA=2529,2026-10-22,"搜索摘要称300与800均为稀有角色档；正文403不可访问，仅作交叉线索",snippet-only
+WIKI-008,GLOBAL,wiki-current-guide,"Forgefire and Stardust｜异界Secrets of the Forge攻略",2026-08-03,https://www.dragonheir.info/article/2829,2026-10-22,"现代毒伤高配蛇女+杜兰戈+图奇+蕾塔+欧勾克；现代狂野高配样例",reviewed-text-crossversion
+WIKI-009,GLOBAL,wiki-current-guide,"Everlasting Hoarfrost｜大陆挑战高分攻略",2026-07,https://www.dragonheir.info/article/2834,2026-10-22,"蛇女+斯赖特+图奇样例；正文明确斯赖特可由柯林/杜兰戈替换及共享命中阈值",reviewed-text-crossversion
+WIKI-010,GLOBAL,wiki-current-guide,"深海的回音｜异界再战渊兽高分思路",2026-03,https://www.dragonheir.info/article/2393,2026-10-22,"现代燃烧派克西顿+杜瑞姆/火拳互换、卡尔弗及生存位；具体属性示例",reviewed-text-crossversion
+WIKI-011,GLOBAL,wiki-hero,"Scaarr hero page",unknown,https://www.dragonheir.info/heroes/23060,2026-10-22,"现代火系增伤减伤、增益分享与伤害回血支点；推荐燃烧队友",reviewed-crossversion-database
+WIKI-012,GLOBAL,wiki-guide,"S4新增传说英雄培养推荐｜派克西顿",2024-06-25,https://www.dragonheir.info/article/407,2026-10-22,"派克西顿PVE燃烧补强；历史文章称可替代杜瑞姆",reviewed-text-crossversion-historical
+WIKI-013,GLOBAL,wiki-current-guide,"搏击命运之锁｜大陆挑战高分思路",2026-05,https://www.dragonheir.info/article/2706,2026-10-22,"现代燃烧无火拳高分样例与共享命中配置；现代狂野样例",reviewed-text-crossversion
+WIKI-014,GLOBAL,wiki-current-rookie-guide,"Rookie Season｜复苏之龙高分攻略",2026-05-27,https://www.dragonheir.info/article/2839,2026-10-22,"2026新手赛季尾王仍为复苏之龙；燃烧五人、替换位与命中/抵抗门槛",reviewed-text-crossversion-current-rookie
+WIKI-015,GLOBAL,wiki-official-calendar,"Event Calendars｜最新赛季/新手赛季/限时活动日历",2026-04-08,https://www.dragonheir.info/article/2560,2026-10-22,"确认三套独立日历、新手赛季路径和全服同步卡池；日历图片401不可读",reviewed-text-image-blocked
+WIKI-016,GLOBAL,wiki-official-announcement,"Season System Optimization Announcement",2026-03-03,https://www.dragonheir.info/article/2277,2026-10-22,"新手季后直达最新季、全服召唤同步、按服龄/强度匹配及召唤类型调整",reviewed-text-current-policy
+WIKI-017,GLOBAL,wiki-official-faq,"New Season & Celebration Server FAQ",2026-03-09,https://www.dragonheir.info/article/2316,2026-10-22,"普通新服先进新手季、约70天周期、同服/联赛匹配、庆典与回归服区别",reviewed-text-current-policy
+WIKI-018,GLOBAL,official-community-crosspost,"Wish Summon Is Coming: Build Your Perfect Lineup!",2026-10-09,https://www.dragonheir.info/article/3867,2026-10-22,"10月11至19日六目标愿望、双稀有锁池、确认后不可改及排除联动/限定/大陆挑战；370开服前已结束",reviewed-text-current-crossversion
+WIKI-019,GLOBAL,wiki-official-guide,"Option Summon — Lineup Guide",2026-09-28,https://www.dragonheir.info/article/3783,2026-10-22,"当前版本Option Summon机制及冰爆/燃烧/霹雳阵容信息图入口；具体英雄仍待图片目视",reviewed-text-image-pending
+CN-COMM-042,CN,taptap-current-forum-index,"2026-10论坛庆典服好友绑定邀请码样本",2026-10,https://www.taptap.cn/app/237749/topic,2026-10-22,"当前公开字符串明确标为庆典服好友绑定码，证明不能当作区服准入码；不收录字符串为可用码",reviewed-current-index
+WIKI-020,GLOBAL,wiki-current-hub,"Beginner Guides",2026-09-15,https://www.dragonheir.info/article/3636,2026-10-22,"当前新手指南总入口仍收录S1七日成长、地精、装备本、天赋本、主线与新手季异界",reviewed-current-index
+WIKI-021,GLOBAL,wiki-rookie-guide,"7-Day Growth Plan",2025-06-26,https://www.dragonheir.info/article/570,2026-10-22,"Day1主线→地精首通→剧毒首通→地精重试→海王顺序及Day2-7资源节点；数值需370复核",reviewed-text-currently-curated
+WIKI-022,GLOBAL,wiki-rookie-guide,"Goblin Lair 1-12 Speedrun Lineup Recommendations",2025-06-26,https://www.dragonheir.info/article/587,2026-10-22,"地精六波两组威能轮转、沃雷什先于西格莉德、拉瓦先于维迪米尔/罗薇娜",reviewed-text-currently-curated
+WIKI-023,GLOBAL,wiki-rookie-guide,"Dungeon Progression Guide: Equipment Dungeon Edition",2025-06-26,https://www.dragonheir.info/article/585,2026-10-22,"三墓穴/异教/古战场分段机制与1-14层职能",reviewed-text-currently-curated
+WIKI-024,GLOBAL,wiki-rookie-guide,"Talent - Wildfire Dungeon",2025-06-26,https://www.dragonheir.info/article/589,2026-10-22,"火毒天赋本1-6免疫时点与免费召唤队",reviewed-text-currently-curated
+WIKI-025,GLOBAL,wiki-rookie-guide,"Talent - Resplendence Dungeon",2025-06-27,https://www.dragonheir.info/article/590,2026-10-22,"电光天赋本1-6双治疗加速、幼龙减益与西格莉德手操",reviewed-text-currently-curated
+WIKI-026,GLOBAL,wiki-rookie-guide,"Talent - Permafrost Dungeon",2025-06-27,https://www.dragonheir.info/article/591,2026-10-22,"冰暗天赋本1-6免控、不开威能窗口及驱散护盾替代",reviewed-text-currently-curated
+WIKI-027,GLOBAL,wiki-rookie-guide,"Main Quest Checkpoint—the Blasphemous",2025-06-27,https://www.dragonheir.info/article/596,2026-10-22,"Day1卡点18秒循环、双禁疗、二级防御提升与威能前减伤轴",reviewed-text-currently-curated
+WIKI-028,GLOBAL,wiki-rookie-guide,"Main Quest Checkpoint—Ooze Monster",2025-06-27,https://www.dragonheir.info/article/597,2026-10-22,"一眼越级软泥怪的群净化/免疫/降攻/防御提升/双奶生存轴",reviewed-text-currently-curated
+WIKI-029,GLOBAL,wiki-rookie-guide,"Temporal Vortex Introduction",2025-06-26,https://www.dragonheir.info/article/586,2026-10-22,"难度1-4、难度4后轮换词缀及早期四同阵营+跨元素奶原则；当前新手总入口仍收录",reviewed-text-currently-curated
+WIKI-030,GLOBAL,wiki-rookie-guide,"Advanced Comp Recommendations",2025-06-26,https://www.dragonheir.info/article/580,2026-10-22,"寒霜/无畏/狂野/鼓舞/毒伤/召唤的S1副本优劣场景；流派层面非单卡强度",reviewed-text-currently-curated
+WIKI-031,GLOBAL,wiki-rookie-guide,"Recommended Comps for Beginners",2025-06-26,https://www.dragonheir.info/article/577,2026-10-22,"早期先元素亲和与共享技能主角，不强凑完整流派；群攻与单体取舍",reviewed-text-currently-curated
+WIKI-032,GLOBAL,wiki-current-rookie-guide,"Beginner Season: Universe Expedition Challenge Guide",2026-05-18,https://www.dragonheir.info/article/2791,2026-10-22,"当前新手季寰空远征仍存在，含限时生存/高伤Boss及基础/群攻/单体构筑",reviewed-text-image-pending
+WIKI-033,GLOBAL,wiki-current-rookie-guide,"Lament in the Snowland: Otherworld Exploration Guide",2026-05-21,https://www.dragonheir.info/article/2855,2026-10-22,"2026新手季雪中魂祭两阶段；复苏之龙正文直接写Starts Day54；每日最多6次奖励与盟会助战",reviewed-text-current-rookie
+WIKI-034,GLOBAL,wiki-s1-announcement,"Lament in the Snowland — Otherworld Exploration Begins!",2025-09-08,https://www.dragonheir.info/article/786,2026-10-22,"服务器Day42解锁维迪米尔请求；混沌聚影与复苏之龙每英雄每日一次",reviewed-text-historical-s1
+WIKI-035,GLOBAL,wiki-s1-announcement,"Universe Expedition — Coming Soon!",2025-09-08,https://www.dragonheir.info/article/781,2026-10-22,"寰空远征8关/挑战星级/最多3英雄驻防；跨联赛各服时间不同且共鸣80解锁",reviewed-text-historical-s1
+WIKI-036,GLOBAL,wiki-s1-announcement,"Imperial Shadow Recast | Mid-Season Challenge Events Coming Soon",2025-09-08,https://www.dragonheir.info/article/777,2026-10-22,"Day22大陆挑战、三轮2/4/6次、英雄/首领单轮一次及20万至2200万伤害档",reviewed-text-historical-s1
+CN-COMM-043,CN,taptap-community-guide,"来一期预抽卡角色鉴别（无图版）",2026-03-15,https://www.taptap.cn/moment/782356204914478047,2026-10-22,"当前预抽语境的狂野/燃烧/寒霜/冰爆/无畏/霹雳/鼓舞/灵光/召唤组件与新手成本判断；正文未覆盖毒伤",reviewed-text-crossversion-community
+CN-OFFICIAL-039,CN,official-taptap-guide,"拳打妖鸟脚踢厄兽，装备本速刷宝典",2025-01-27,https://www.taptap.cn/moment/633004077566921509,2026-10-22,"官方蓝紫卡三墓穴机制：剧毒小怪协战/复活、诅咒护盾与驱散、腐烂减益计数/分散/免疫净化",reviewed-text-historical-currently-curated
+CN-OFFICIAL-040,CN,official-taptap-event-result,"结果公示｜二阶段蓝紫海王挑战赛",2025-05-18,https://www.taptap.cn/moment/673279962911870369,2026-10-22,"官方赛果对比长生存与短爆发：1700万/9分钟、1282万/5分钟、近1200万/9分钟；用于海王生存-DPS权衡",reviewed-text-historical
