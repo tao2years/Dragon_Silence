@@ -36,13 +36,13 @@ Updated: 2026-10-22
 | 优先级 | 视频 | 计划提取 | 当前状态 |
 |---|---|---|---|
 | P2 | [S1–S4 副本/挑战赛合集](https://www.bilibili.com/video/BV1Qz421U7Hf/) | 剧毒、诅咒、腐烂、古战场、海王、挑战赛逐本模板 | 合集78集、目录已核验；跨版本使用 |
-| P1 | [S8双蛇：0命蛇女无大老鼠](https://www.bilibili.com/video/BV1RKuL6dEc3/) | 验证300档无斯赖特骨架的实际五人、装备、轴和成绩 | 标题/时长已定位；配置待逐帧 |
+| P1 | [S8双蛇：0命蛇女无大老鼠](https://www.bilibili.com/video/BV1RKuL6dEc3/) | 验证300档无斯赖特骨架的实际五人、装备、轴和成绩 | 已逐帧：图奇+0激励蛇女+城主+未名生存辅+蕾塔，16.49B；第四人姓名待核 |
 | P2 | [S4 燃烧无火拳挑战赛](https://www.bilibili.com/video/BV1Yz1QB2Edn/) | 火马核心、无火拳替代、队伍码和属性帧 | 标题/简介已核验；不直接外推S1 |
 | P1 | [S8尾王一阶段20队、覆盖10派系](https://www.douyin.com/video/7685636647345458466) | 逐队恢复队伍码、五人、配装、伤害，建立现代多队库 | 元数据已核验；正文画面待复核 |
 | P1 | [S8尾王灵光24亿](https://www.douyin.com/video/7685407027484527915) | 在客户端验证两个公开队伍码能否跨服/跨赛季预览 | 码已恢复：S8260914G3KS6VHB、S8260915Q1NEXB41；未导入 |
-| P0 | [S9王冠上路毒伤](https://www.bilibili.com/video/BV1nxnP6eEr3/) | 在370导入有子夜/无子夜两码，恢复五人、激励、装备、轴 | 作者评论已恢复：S9261020QU5B7BX2、S9261020QU7AO4B3 |
-| P1 | [S9四阶段双蛇毒伤](https://www.bilibili.com/video/BV1CzpB6zEmi/) | 恢复双蛇、毒鸡/毒弓、混沌之子的实际五人与激励依赖 | 元数据和评论已复核；画面/队伍码待恢复 |
-| P1 | [S9三阶段毒伤活满两法](https://www.bilibili.com/video/BV1GcH96ZEG1/) | 恢复两套生存配置、命中阈值与天赋分支 | 评论确认混沌之子天赋分支会改变命中需求；画面待复核 |
+| P0 | [S9王冠上路毒伤](https://www.bilibili.com/video/BV1nxnP6eEr3/) | 在370导入有子夜/无子夜两码，恢复五人、激励、装备、轴 | 已逐帧恢复两套五人、装备、轴与3.35/3.85B；仅剩370导入验证 |
+| P1 | [S9四阶段双蛇毒伤](https://www.bilibili.com/video/BV1CzpB6zEmi/) | 恢复双蛇、毒鸡/毒弓、混沌之子的实际五人与激励依赖 | 已逐帧恢复五人、面板、18秒轴和21.95B；确认毒鸡即蕾塔 |
+| P1 | [S9三阶段毒伤活满两法](https://www.bilibili.com/video/BV1GcH96ZEG1/) | 恢复两套生存配置、命中阈值与天赋分支 | 已逐帧恢复主五人、面板、18秒轴和蕾塔替换码；待370导入 |
 | P1 | [2026年9月心愿池抽取建议](https://www.bilibili.com/video/BV1LWYk6YEcj/) | 恢复候选页、池规与作者具体抽取门槛 | 元数据/评论已复核；欧气评论不作保底，画面正文待恢复 |
 | P1 | [S9大陆挑战赛灵光](https://www.bilibili.com/video/BV1uBnn68ErZ/) | 导入码恢复Boss、五人、激励、装备与成绩 | 码已恢复：S92610194GTOMNYZ |
 | P2 | [S9深渊爬塔120层](https://www.bilibili.com/video/BV15Ln263EkD/) | 恢复抵抗阈值、五人、站位与轴 | 作者码已恢复：S9261022R3IF35XX |

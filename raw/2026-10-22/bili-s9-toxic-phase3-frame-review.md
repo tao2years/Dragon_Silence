@@ -32,7 +32,7 @@ Metadata:
 - Attempt 1: `7,500,700,738`.
 - Attempt 2: `7,039,509,878`.
 - Visible core: `斯赖特 + 图奇 + 蛇女 + 混沌之子 + 毒鸡`.
-- The precise official name of “毒鸡” is not legible enough in this frame; do not map the nickname to a hero without client verification.
+- Cross-video confirmation from `BILI-014` resolves this portrait/nickname as `蕾塔`.
 
 ### 30-40 seconds: 瑟潘忒弥斯
 
@@ -88,4 +88,4 @@ Metadata:
 - This is one creator/account, one S9 boss and level-79 gear. It does not prove 370 S1 availability or damage.
 - The video does not identify its server number; it is not a 368/369 leaderboard sample.
 - The embedded poison-chicken code still needs import in the 370 client.
-- Nickname-to-official-name mapping for “毒鸡” remains unresolved.
+- The team code still needs import in the 370 client; the nickname mapping has been resolved as 蕾塔 by the labelled profile frame in `BILI-014`.

@@ -73,7 +73,7 @@ WIKI-006,GLOBAL,third-party-database,"Twitch hero page",unknown,https://www.drag
 WIKI-007,GLOBAL,third-party-database,"Oggok hero page",unknown,https://www.dragonheir.info/heroes/21700,2026-10-22,"欧勾克不死、延迟治疗、降攻与治疗驱散机制",reviewed-text-crossversion
 CN-COMM-033,CN,community-forum-index,"2026年9至10月新区毒伤自选讨论",2026-09/10,https://www.taptap.cn/app/237749/topic?group_label_id=532076&page=7,2026-10-22,"当前社区建议新区攒橙骰等自选、优先蛇女/斯赖特而非旧子夜；非官方承诺",reviewed-current-community-index
 CN-OFFICIAL-023,CN,official-curated-guide,"大神秘籍｜燃烧流派角色解读",2025-05-27,https://www.taptap.cn/moment/676583108882989386,2026-10-22,"S2燃烧层数/爆燃机制与火拳、杜瑞姆、卡尔弗职能；玩家投稿",reviewed-player-submission
-BILI-011,CN,video,"S8双蛇：0命蛇女无大老鼠篇",2026-08-09,https://www.bilibili.com/video/BV1RKuL6dEc3/,2026-10-22,"0命蛇女无斯赖特的现代队伍视频入口；正文配置待逐帧",reviewed-metadata
+BILI-011,CN,video,"S8双蛇：0命蛇女无大老鼠篇",2026-08-09,https://www.bilibili.com/video/BV1RKuL6dEc3/,2026-10-22,"逐帧复核0激励蛇女无斯赖特五人、16.49B双战成绩及角色面板；金面具辅助姓名待恢复",reviewed-video-frames
 CN-OFFICIAL-024,CN,official-taptap,"《龙息：神寂》4月17日更新公告",2025-04-16,https://www.taptap.cn/moment/661685085149335216,2026-10-22,"S1第22天先祖遗迹无尽模式条件与周结规则",reviewed-text
 CN-OFFICIAL-025,CN,official-taptap,"寰空远征｜多环境战斗，爬塔玩法上新",2025-04,https://www.taptap.cn/moment/664235049008237522,2026-10-22,"S1第37至50天开放范围与英雄单驻防限制",reviewed-index
 CN-OFFICIAL-026,CN,official-taptap,"雪域的悲鸣｜S1异界探索玩法介绍",2025-04-30,https://www.taptap.cn/moment/666423294446010945,2026-10-22,"第43/54/64天阶段、龙芽汤剂与英雄每日一次出战限制",reviewed-text
@@ -89,9 +89,9 @@ CN-VIDEO-008,CN,douyin-video,"S8尾王一阶段20队攻略覆盖10派系",2026-0
 CN-VIDEO-009,CN,douyin-video,"S8尾王灵光队24亿攻略",2026-09-14,https://www.douyin.com/video/7685407027484527915,2026-10-22,"公开视频附队伍码S8260914G3KS6VHB及评论更新28亿码S8260915Q1NEXB41",reviewed-metadata-comments
 CN-MEDIA-005,CN,syndicated-player-review,"新赛季灵光流派迎来强力补强霍尔法斯特",2026-10-15,https://www.9game.cn/lxsj1/12136906.html,2026-10-22,"霍尔法斯特测试服技能/激励/队伍样例；文末称天使本赛季返场，但投稿不代表官方",reviewed-text-secondary
 BILI-013,CN,video,"截止S9大稀有获取建议",2026-10-08,https://www.bilibili.com/video/BV1wPH169E4s/,2026-10-22,"S9大稀有投资视频与评论；自选补强同时赌歪仅属社区策略",reviewed-metadata-comments
-BILI-014,CN,video,"S9四阶段双蛇毒伤混子与毒鸡",2026-10-14,https://www.bilibili.com/video/BV1CzpB6zEmi/,2026-10-22,"当前S9双蛇毒伤入口；评论强调毒弓/毒鸡比较受混沌之子激励影响",reviewed-metadata-comments
+BILI-014,CN,video,"S9四阶段双蛇毒伤混子与毒鸡",2026-10-14,https://www.bilibili.com/video/BV1CzpB6zEmi/,2026-10-22,"逐帧复核蛇女+图奇+斯赖特+混沌之子+蕾塔、21.95B双战、五人面板与18秒轴；确认毒鸡即蕾塔",reviewed-video-frames
 BILI-015,CN,video,"S9三阶段毒伤活满的两套办法",2026-10-09,https://www.bilibili.com/video/BV1GcH96ZEG1/,2026-10-22,"逐帧复核蛇女+斯赖特+图奇+混沌之子+斯特加默芬、13.70B双战成绩、五人面板与18秒轴；另恢复毒鸡高配码",reviewed-video-frames
-BILI-016,CN,video,"S9王冠上路毒伤队攻略",2026-10-21,https://www.bilibili.com/video/BV1nxnP6eEr3/,2026-10-22,"作者公开有子夜/无子夜两条S9队伍码；精选不保证城主的当期社区答复",reviewed-metadata-comments-codes
+BILI-016,CN,video,"S9王冠上路毒伤队攻略",2026-10-21,https://www.bilibili.com/video/BV1nxnP6eEr3/,2026-10-22,"逐帧复核有子夜/无子夜两队、3.35B/3.85B、五人装备与技能轴；作者公开两条队伍码",reviewed-video-frames-codes
 BILI-017,CN,video,"心愿池抽取建议（2026年9月）",2026-09-14,https://www.bilibili.com/video/BV1LWYk6YEcj/,2026-10-22,"2026年9月心愿池社区入口；骰子不足者谨慎，评论欧气样本不作保底",reviewed-metadata-comments
 CN-OFFICIAL-029,CN,official-taptap,"预言召唤2.0｜让更多角色享受自选开局",2025-05-21,https://www.taptap.cn/moment/674046480612329103,2026-10-22,"端外250次试刷、锁定未来100次日芒结果、单角色一次导入与重新参与条件",reviewed-text
 CN-OFFICIAL-030,CN,official-taptap,"爆改回归！预抽卡3.0狂送260抽，保底3金任你选！",2026-03-12,https://www.taptap.cn/moment/781239139142994150,2026-10-22,"3.0官方标题确认260次预抽与3金保障；正文长图未恢复",reviewed-title-image-only
