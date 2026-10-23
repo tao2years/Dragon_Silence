@@ -4,6 +4,7 @@
 
 - [370 区 Day 1：先做什么、先别做什么](../outputs/370-day1-brief.md)
 - [火 / 毒账号规划（溯影召唤版）](../outputs/fire-poison-plan.md)
+- [370区灵光 / 毒伤双路线抽卡规划](../outputs/370-light-toxic-draw-plan.md)
 - [370 区当前腐蚀卡池](current-banner.md)
 - [六名古早派系主 C 选择框架](legacy-six-factions.md)
 - [火 / 毒英雄实体与溯影可选边界](fire-poison-roster.md)
@@ -25,6 +26,8 @@
 - [S1 Boss机制底座与海王测试矩阵](s1-boss-dossiers.md)
 - [腐蚀体系：核心、替代位与投资门槛](corrosion.md)
 - [毒伤体系：子夜、斯赖特与长短战两套轴](toxic-damage.md)
+- [“机长该起飞了”蛇女 / 毒伤配队档案](captain-toxic-video-dossiers.md)
+- [灵光完整体、下位替代与双蛇灵光 / 毒伤配置](light-team-and-double-snake.md)
 - [燃烧火：S2启动骨架、派克西顿补强与现代换位](burn.md)
 - [狂野火：龙妈旧骨架、现代缺口与使用场景](wildfire.md)
 - [副本职能矩阵](dungeons.md)
