@@ -1,0 +1,14 @@
+boss_id,content,boss_or_stage,mechanic,required_counter,timing_or_trigger,evidence_scope,source_ids,server370_status
+BOSS-TV-001,时空涡流,海王,"雷电之召点名穿装后最高生命单位","确保主承伤位最高生命；治疗与减伤覆盖点名","历史文本未给精确秒点",CN-community-historical,CN-COMM-007,pending-client
+BOSS-TV-002,时空涡流,海王,"群体技能为主，第四技能后伤害继续增长","二级降攻、群疗、防御提升/不死覆盖高伤窗口","历史20秒一轮、每5秒一技；第四技能约21.4秒落地",CN-official-historical+wiki-historical,CN-OFFICIAL-048|CN-OFFICIAL-049|WIKI-043,pending-client
+BOSS-TV-003,时空涡流,海王,"充能降低/削减威能可延后Boss技能但会移动时间轴","降低压力后重新观察实际落点，不照搬固定轴","蕾塔威能会施加充能速度降低",crossversion-hero+CN-community-historical,WIKI-003|CN-COMM-007,pending-client
+BOSS-VT-001,剧毒墓穴,妖鸟,"4个磷火协战；带减益时协战率降低；死亡对Boss造成真伤；二技能最多复活2个","群体减益/降攻、范围清怪、破盾、持续治疗","按层级出现群盾和成长压力",CN-official-historical+curated-guide,CN-OFFICIAL-039|WIKI-023,pending-layer
+BOSS-CT-001,诅咒墓穴,血王子,"生命伤害转治疗并削生命上限；Boss自加输出增益","群盾阻断生命伤害；移除/禁用/窃取Boss增益；降攻减伤","历史18秒循环：约6/12/18秒",CN-official-historical+community-historical,CN-OFFICIAL-039|CN-COMM-032,pending-layer
+BOSS-RT-001,腐烂墓穴,食腐兽,"按自身减益数强化一二技能；全屏毒；吞噬目标并回血","减少非必要减益、分散、免疫/净化、禁疗；召唤/隐身/爆发解吞噬","历史吞噬在二技能后约6秒",CN-official-historical+community-historical,CN-OFFICIAL-039|CN-COMM-032,pending-layer
+BOSS-AB-001,古战场遗迹,姿态Boss,"清除我方增益并永久加攻；剑盾姿态；历史最远位眩晕","禁增益/驱散、降攻/降命中、远位净化","按技能循环观察姿态",wiki-currently-curated+CN-community-historical,WIKI-023|CN-COMM-007,pending-layer
+BOSS-HR-001,异教遗迹,复活隐身Boss,"复活小怪并隐身；小怪存活持续治疗Boss","眩晕/控制、禁疗、范围清怪、免疫","复活次数与隐身条件待客户端",wiki-currently-curated,WIKI-023,pending-layer
+BOSS-TD-001,天赋领域,炽焰/火毒,"高层压制火毒并施加减益/燃烧","全体减益免疫、阶段前留技能、跨元素输出","Boss威能前开免疫",wiki-currently-curated,WIKI-024,pending-layer
+BOSS-TD-002,天赋领域,风暴/电光,"幼龙携带减益；阶段切换影响技能节奏","双治疗推进、关自动留威能、范围清幼龙","第二小阶段前关自动",wiki-currently-curated,WIKI-025,pending-layer
+BOSS-TD-003,天赋领域,冰霜/冰暗,"枯竭/降攻窗口和Boss护盾","等第二技能后输出、免控、驱散护盾","有枯竭/降攻时不交威能",wiki-currently-curated,WIKI-026,pending-layer
+BOSS-MQ-001,主线,The Blasphemous,"多段前排控制且技能回血","双禁疗、降攻、防御提升/盾、治疗","历史18秒循环；6至17秒前排压力",wiki-currently-curated,WIKI-027,pending-client
+BOSS-MQ-002,主线,Ooze Monster,"三技能均叠毒","群体净化/免疫、降攻、防御提升、治疗","越级时生存优先",wiki-currently-curated,WIKI-028,pending-client

@@ -6,6 +6,9 @@ GitHub：[tao2years/Dragon_Silence](https://github.com/tao2years/Dragon_Silence)
 
 当前入口：
 
+- [账号角色与完整技能底座](wiki/account-hero-dossiers.md)
+- [S1 Boss机制底座](wiki/s1-boss-dossiers.md)
+- [账号化问答检索协议](research/response-protocol.md)
 - [370 区 Day 1 决策简报](outputs/370-day1-brief.md)
 - [火 / 毒账号规划（溯影召唤版）](outputs/fire-poison-plan.md)
 - [公开卡盒阵容模板](outputs/public-team-templates.md)

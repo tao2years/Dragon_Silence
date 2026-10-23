@@ -1,2 +1,3 @@
 test_id,tested_at,server,account_level,content,stage,boss,team,formation,gear_summary,skill_timeline,result,score_or_time,death_time,failure_reason,next_change,evidence_path,status
 TEST-000,,,,,,,,,,,,,,,,,template
+TEST-001,2026-10-23,370,,时空涡流,第一阶段/第一天,海王,"瑟潘忒弥斯|图奇|塞崔迪娅|蕾塔|弗尔巴斯",未记录,未记录,未记录,"存活到本轮结束；用户描述为刚好活到最后",,战斗结束前,生存接近阈值,"保持基线连续跑3次；再分别单换杜兰戈测试少泥魔或少蕾塔的生存与总伤",chat-user-report,reported-not-instrumented

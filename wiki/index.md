@@ -21,6 +21,8 @@
 
 ## 阵容与机制
 
+- [370账号角色与完整技能底座](account-hero-dossiers.md)
+- [S1 Boss机制底座与海王测试矩阵](s1-boss-dossiers.md)
 - [腐蚀体系：核心、替代位与投资门槛](corrosion.md)
 - [毒伤体系：子夜、斯赖特与长短战两套轴](toxic-damage.md)
 - [燃烧火：S2启动骨架、派克西顿补强与现代换位](burn.md)
@@ -49,3 +51,5 @@
 
 Day1可执行入口：[海王A/B/C递进阵容](../outputs/day1-sea-king-ladder.md)。
 5. 当前国服区服邀请的有效期、名额、赛季限制与满服规则。
+
+账号化问答在给出换人、装备、神器或技能轴结论前，必须执行[回答前检索协议](../research/response-protocol.md)。

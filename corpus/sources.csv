@@ -161,3 +161,12 @@ CN-OFFICIAL-046,CN,official-taptap-banner,"〖圣谕辉光召唤〗丨弥菈希�
 CN-OFFICIAL-047,CN,official-taptap-banner,"〖圣谕辉光召唤〗丨弥菈希亚专属召唤限时开启",2026-08-17,https://www.taptap.cn/moment/838465330899586585,2026-10-22,"弥菈希亚专属池第二个同名官方样本；证明曾返场但不证明11月8日",reviewed-title-date-official
 WIKI-037,GLOBAL,wiki-mechanics,"How Hero Attributes & Conditions Work",2024-02-02,https://www.dragonheir.info/article/103,2026-10-23,"精通使派生伤害按精通/200获得增伤；派生伤害不可重击；命中与抵抗先后判定说明",reviewed-text-crossversion
 CN-COMM-044,CN,taptap-community-guide,"玩毒队的可以看一眼这个攻略了",2025-04-04,https://www.taptap.cn/moment/657487182495221746,2026-10-23,"国服旧毒长战配装与攻击/精通混装经验；1精通约9.4攻击仅限作者当时面板，不作通用常数",reviewed-text-historical-community
+WIKI-038,GLOBAL,third-party-database,"Durango hero page",unknown,https://www.dragonheir.info/heroes/20670,2026-10-23,"杜兰戈命中光环、多段毒伤、暴击回能、暴击挂毒与个人忽略防御",reviewed-text-crossversion
+WIKI-039,GLOBAL,third-party-database,"Sacredeia hero page",unknown,https://www.dragonheir.info/heroes/21100,2026-10-23,"塞崔迪娅技能结构；页面变量缺失，只用于技能槽与腐蚀被动结构，不补造数值",reviewed-structure-crossversion-variable-missing
+WIKI-040,GLOBAL,third-party-database,"Frurbath hero page",unknown,https://www.dragonheir.info/heroes/21670,2026-10-23,"弗尔巴斯防御光环、6秒治疗区、低血治疗净化与10秒二级降攻",reviewed-text-crossversion
+WIKI-041,GLOBAL,third-party-database,"Corrin hero page",unknown,https://www.dragonheir.info/heroes/21300,2026-10-23,"柯林刷新最多30层毒伤、爆毒扩散与三段挂毒",reviewed-text-crossversion
+WIKI-042,GLOBAL,third-party-database,"Isolde hero page",unknown,https://www.dragonheir.info/heroes/23240,2026-10-23,"伊索尔德防御光环、二级降攻、范围护盾、防御提升与盾上减伤",reviewed-text-crossversion
+WIKI-043,GLOBAL,wiki-historical-guide,"Temporal Vortex Difficulty III",unknown,https://www.dragonheir.info/article/255,2026-10-23,"海王历史每5秒一技/20秒循环、降攻覆盖前三技与难度III词缀轮换",reviewed-text-historical
+WIKI-044,GLOBAL,wiki-historical-guide,"Temporal Vortex",unknown,https://www.dragonheir.info/article/887,2026-10-23,"历史毒伤海王与多段威能携带破防神器案例",reviewed-text-historical
+CN-OFFICIAL-048,CN,official-taptap-guide,"龙息也玩『卡抬手』？看好了，技能要这样放",2024-11-08,https://www.taptap.cn/moment/604030721593445187,2026-10-23,"官方历史测试说明海王第四技能显示20秒、约21.4秒造成伤害及降攻覆盖思路；正文声明不代表最终设定",reviewed-text-historical-test
+CN-OFFICIAL-049,CN,official-taptap-guide,"生存输出兼备，时空涡流高分指南",2024-11-13,https://www.taptap.cn/moment/605842521934793339,2026-10-23,"海王群体攻击、第四技能后逐步增伤、群疗亲和与多段威能破防神器思路",reviewed-text-historical
