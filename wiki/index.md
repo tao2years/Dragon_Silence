@@ -35,6 +35,7 @@
 
 ## 赛季与情报
 
+- [370区S1内容开放日程（2026最新证据版）](../outputs/370-s1-schedule-latest.md)
 - [资料获取地图](source-map.md)
 - [S1 阶段开放基线](s1-timeline.md)
 - [S1开放日历：已确认、历史基线与待验证](../outputs/s1-unlock-calendar.md)
